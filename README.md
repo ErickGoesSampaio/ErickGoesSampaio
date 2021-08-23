@@ -3,9 +3,11 @@
 ```diff
 Hi, My name is Erick 👩‍💻.
 
-@@I am a software developer
- Living in São Paulo, Brazil 🇧🇷.
- 19 years old@@
+
+@@I'm a software developer@@
++ Living in São Paulo, Brazil 🇧🇷.
+- 19 years old
+! communicative, enthusiast
 
 # 📖 Programming languages, web development and mobile
 
@@ -14,7 +16,7 @@ Hi, My name is Erick 👩‍💻.
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-erickgoessampaio@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
 
 <hr>
 
