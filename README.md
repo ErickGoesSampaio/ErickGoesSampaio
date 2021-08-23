@@ -10,10 +10,14 @@ Hi, My name is Erick 👩‍💻.
 # 📖 Programming languages, web development and mobile
 
 ```
+
 <hr>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
+
 <hr>
+
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickGoesSampaio&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoesSampaio&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
