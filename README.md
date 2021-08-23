@@ -17,12 +17,8 @@ Hi, My name is Erick 👩‍💻.
 <div>
   <h3>Contact</h3>
 </div
-<br>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-erickgoessampaio@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
-
-<hr>
 
 <div>
   <h3>Skills</h3>
@@ -38,7 +34,6 @@ Hi, My name is Erick 👩‍💻.
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=red"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-<br>
 <hr>
   
 <div>
