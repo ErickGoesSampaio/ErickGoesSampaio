@@ -41,7 +41,8 @@ Hi, My name is Erick 👩‍💻.
   
 <div id="gitconfigs">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickGoesSampaio&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoesSampaio&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickGoesSampaio&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=15151" alt="git-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoesSampaio&layout=compact&title_color=fff&text_color=fff&bg_color=151515" alt="git-stats"/>
 </div>
 
 <!--
