@@ -3,9 +3,9 @@
 ```diff
 Hi, My name is Erick 👩‍💻.
 
- I am a software developer
+@@I am a software developer
  Living in São Paulo, Brazil 🇧🇷.
- 19 years old
+ 19 years old@@
 
 # 📖 Programming languages, web development and mobile
 
