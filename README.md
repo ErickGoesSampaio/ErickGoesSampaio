@@ -18,7 +18,7 @@ Hi, My name is Erick 👩‍💻.
   <h3>Contact</h3>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://discord.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://discord.com)](https://discord.com)
 [![Gmail Badge](https://img.shields.io/badge/-erickgoessampaio@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
 [![What's App Badge](http://img.shields.io/badge/-Whatsapp-000?style=flat-square&color=dark-green&logo=Whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5513981695875)](https://web.whatsapp.com/send?phone=+5513981695875)
