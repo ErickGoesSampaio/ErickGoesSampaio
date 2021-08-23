@@ -21,6 +21,9 @@ Hi, My name is Erick 👩‍💻.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-erickgoessampaio@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
 [![What's App Badge](http://img.shields.io/badge/-Whatsapp-000?style=flat-square&color=dark-green&logo=Whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5513981695875)](https://web.whatsapp.com/send?phone=+5513981695875)
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 <div>
   <h3>Skills</h3>
