@@ -18,12 +18,6 @@ Hi, My name is Erick 👩‍💻.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-erickgoessampaio@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
 
-<form action="/action_page.php" novalidate>
-  <label for="email">Enter your email:</label>
-  <input type="email" id="email" name="email" required><br><br>
-  <input type="submit" value="Submit">
-</form>
-
 <hr>
 
 <div>
