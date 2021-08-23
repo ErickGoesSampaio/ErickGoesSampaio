@@ -14,7 +14,9 @@ Hi, My name is Erick 👩‍💻.
 ```
 
 <hr>
-##Contact
+<div>
+  <h3>Contact</h3>
+</div
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
@@ -23,7 +25,7 @@ Hi, My name is Erick 👩‍💻.
 <hr>
 
 <div>
-  Skills
+  <h3>Skills</h3>
 <div/>
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
