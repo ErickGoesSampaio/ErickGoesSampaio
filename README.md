@@ -1,6 +1,16 @@
 ### Hi there 👋
-<hr>
+```diff
+Hi, My name is Erick 👩‍💻.
 
+@@I'm a software developer@@
++ Living in São Paulo, Brazil 🇧🇷.
+- 19 years old
+! communicative, enthusiastic and always learning
+
+# 📖 Programming languages, web development and mobile
+
+```
+<hr>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
 <hr>
