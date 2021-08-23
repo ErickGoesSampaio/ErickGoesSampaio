@@ -2,7 +2,7 @@
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-goes-sampaio/)](https://www.linkedin.com/in/erick-goes-sampaio/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dvdsantos@gmail.com)](mailto:erickgoessampaio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickgoessampaio@gmail.com)](mailto:erickgoessampaio@gmail.com)
 <hr>
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickGoesSampaio&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
