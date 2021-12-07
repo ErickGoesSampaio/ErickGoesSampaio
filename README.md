@@ -47,6 +47,15 @@ Hi, My name is Erick 👩‍💻.
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGoesSampaio&layout=compact&title_color=fff&text_color=fff&bg_color=151515"/>
 </div>
 
+  <p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/ErickGoesSampaio/count.svg" />
+ </p>
+
+</p>
+
 <!--
 **ErickGoesSampaio/ErickGoesSampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
